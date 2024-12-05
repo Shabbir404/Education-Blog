@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "cover": "https://images.pexels.com/photos/7112700/pexels-photo-7112700.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "The Future of Artificial Intelligence",
+        "author": "Emma Rodriguez",
+        "author_img": "https://randomuser.me/api/portraits/women/44.jpg",
+        "posted_date": "2024-02-15",
+        "reading_time": 7,
+        "hashtags": [
+            "#AI",
+            "#Technology",
+            "#Innovation"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://images.pexels.com/photos/1108537/pexels-photo-1108537.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Sustainable Living: A Practical Guide",
+        "author": "James Chen",
+        "author_img": "https://randomuser.me/api/portraits/men/32.jpg",
+        "posted_date": "2024-03-22",
+        "reading_time": 5,
+        "hashtags": [
+            "#Sustainability",
+            "#Environment",
+            "#GreenLiving"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Exploring Machine Learning Algorithms",
+        "author": "Alex Kim",
+        "author_img": "https://randomuser.me/api/portraits/men/79.jpg",
+        "posted_date": "2024-01-10",
+        "reading_time": 9,
+        "hashtags": [
+            "#MachineLearning",
+            "#DataScience",
+            "#Programming"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "The Psychology of Productivity",
+        "author": "Sarah Thompson",
+        "author_img": "https://randomuser.me/api/portraits/women/67.jpg",
+        "posted_date": "2024-04-05",
+        "reading_time": 6,
+        "hashtags": [
+            "#Productivity",
+            "#MentalHealth",
+            "#PersonalGrowth"
+        ]
+    },
+    {
+        "id": 5,
+        "cover": "https://images.pexels.com/photos/4079154/pexels-photo-4079154.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Culinary Innovations of 2024",
+        "author": "Marco Rossi",
+        "author_img": "https://randomuser.me/api/portraits/men/85.jpg",
+        "posted_date": "2024-02-28",
+        "reading_time": 4,
+        "hashtags": [
+            "#Cooking",
+            "#FoodTrends",
+            "#Gastronomy"
+        ]
+    },
+    {
+        "id": 6,
+        "cover": "https://images.pexels.com/photos/2467464/pexels-photo-2467464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Travel Photography: Tips and Tricks",
+        "author": "Elena Petrova",
+        "author_img": "https://randomuser.me/api/portraits/women/55.jpg",
+        "posted_date": "2024-03-14",
+        "reading_time": 8,
+        "hashtags": [
+            "#Photography",
+            "#Travel",
+            "#TravelTips"
+        ]
+    },
+    {
+        "id": 7,
+        "cover": "https://images.pexels.com/photos/3861961/pexels-photo-3861961.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "The Rise of Remote Work Culture",
+        "author": "David Martinez",
+        "author_img": "https://randomuser.me/api/portraits/men/61.jpg",
+        "posted_date": "2024-01-25",
+        "reading_time": 5,
+        "hashtags": [
+            "#RemoteWork",
+            "#WorkCulture",
+            "#Productivity"
+        ]
+    }
+]
